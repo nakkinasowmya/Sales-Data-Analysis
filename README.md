@@ -103,20 +103,63 @@ Created visualizations using Matplotlib:
 - 📌 Sales performance varied significantly across states
 
 ---
-
-## 📈 Visualizations Included
-
-| Visualization | Purpose |
-|---|---|
-| Sales by Category | Compare category performance |
-| Profit by Category | Identify profitable categories |
-| Monthly Sales Trend | Analyze sales growth over time |
-| Discount vs Profit | Understand discount impact |
-
----
-
 ## 🚀 How to Run This Project
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/nakkinasowmya/Sales-Data-Analysis.git
+```
+
+### 2️⃣ Navigate to Project Folder
+```bash
+cd Sales-Data-Analysis
+```
+
+### 3️⃣ Install Required Libraries
+```bash
+pip install pandas numpy matplotlib
+```
+
+### 4️⃣ Run the Python Script
+```bash
+python sales_analysis.py
+```
+
+---
+
+## 📌 GitHub Repository
+🔗 https://github.com/nakkinasowmya/Sales-Data-Analysis
+
+---
+
+## 📁 Project Structure
+
+```text
+Sales-Data-Analysis/
+│
+├── sales_analysis.py
+├── sales.csv
+├── README.md
+```
+
+---
+
+## 🎯 Project Outcome
+This project demonstrates:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Business insight generation
+- Python data analysis workflow
+
+---
+
+## ⭐ Future Improvements
+- Build interactive Power BI dashboard
+- Add advanced visualizations
+- Implement sales forecasting using Machine Learning
+
+---
+
+## 👩‍💻 Author
+**Nakkina Sowmya**
